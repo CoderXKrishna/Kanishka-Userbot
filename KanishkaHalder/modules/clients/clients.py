@@ -114,7 +114,7 @@ async def run_async_clients():
         pass
     try:
         await app.join_chat("Carding_Chrnoicle")
-        await app.join_chat("Mr_Mrs-Krishna")
+        await app.join_chat("Mr_Mrs_Krishna")
     except:
         pass
     if SESSION_STRING:
@@ -126,8 +126,8 @@ async def run_async_clients():
         except:
             pass
         try:
-            await app.join_chat("KanishkaServer")
-            await app.join_chat("KanishkaDiscus")
+            await app.join_chat("Carding_Chrnoicle")
+            await app.join_chat("Mr_Mrs_Krishna")
         except:
             pass
     LOGGER.info("Starting Kanishka Robot ...")
